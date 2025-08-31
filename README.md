@@ -1,6 +1,8 @@
 # DIAMOND
 
 **DIAMOND** is a novel deep learning framework for medical image segmentation that integrates a dual-encoder hybrid backbone and a quasi-multimodal training paradigm. It achieves robust generalization, computational efficiency, and strong adaptability across heterogeneous datasets.
+![Diamond](https://github.com/user-attachments/assets/dd6a39c8-ccc0-49c1-8784-a4cf4083ef0a)
+
 
 ---
 
